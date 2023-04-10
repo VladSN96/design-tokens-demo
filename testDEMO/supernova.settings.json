@@ -4,11 +4,7 @@
             "tokenSets": ["core", "light"],
             "supernovaBrand": "Default",
             "supernovaTheme": null
-        }, {
-            "tokenSets": ["core", "dark"],
-            "supernovaBrand": "Default",
-            "supernovaTheme": "Dark"
-        }
+        },
     ],
     "settings": {
         "dryRun": false,
